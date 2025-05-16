@@ -1,8 +1,8 @@
 const mysql=require('mysql2');
 const connection=mysql.createConnection({
     host:'sql12.freesqldatabase.com',
-    user:'sql12777368',
-    password:'l8Yd7MpyZj',
+    user:'sql12779130',
+    password:'piXZgkKttE',
     database:'sql12777368'
 });
 
