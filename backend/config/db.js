@@ -3,7 +3,7 @@ const connection=mysql.createConnection({
     host:'sql12.freesqldatabase.com',
     user:'sql12779130',
     password:'piXZgkKttE',
-    database:'sql12777368'
+    database:'sql12779130'
 });
 
 connection.connect((err)=>{
